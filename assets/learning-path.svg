@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="206" viewBox="0 0 960 206" role="img" aria-labelledby="title desc">
+<title id="title">Cybersecurity learning path</title><desc id="desc">Animated connections between networking fundamentals, hands-on security labs, and a future engineering career.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#081a2b"/><stop offset="1" stop-color="#050c19"/></linearGradient>
+  <linearGradient id="edge" x1="0" x2="1"><stop stop-color="#62d9e6" stop-opacity=".14"/><stop offset=".5" stop-color="#62d9e6" stop-opacity=".9"/><stop offset="1" stop-color="#62d9e6" stop-opacity=".14"/></linearGradient>
+</defs>
+<rect width="960" height="206" rx="16" fill="url(#bg)" stroke="#254b60"/>
+<g font-family="Arial,Helvetica,sans-serif">
+<text x="31" y="33" font-size="12" letter-spacing="2.5" font-weight="700" fill="#62d9e6">MY LEARNING PATH</text>
+<text x="930" y="33" text-anchor="end" font-size="11" fill="#567c93">FOUNDATIONS  →  PRACTICE  →  GOAL</text>
+</g>
+<path d="M290 113H352M608 113H670" stroke="url(#edge)" stroke-width="3" stroke-linecap="round"/>
+<circle cx="290" cy="113" r="3" fill="#b1feff"/><circle cx="608" cy="113" r="3" fill="#b1feff"/>
+<g>
+  <circle cx="290" cy="113" r="5" fill="#90ffea"><animate attributeName="cx" values="290;352;290" dur="3.6s" repeatCount="indefinite"/><animate attributeName="opacity" values=".1;1;.1" dur="3.6s" repeatCount="indefinite"/></circle>
+  <circle cx="608" cy="113" r="5" fill="#90ffea"><animate attributeName="cx" values="608;670;608" dur="3.6s" begin="1.2s" repeatCount="indefinite"/><animate attributeName="opacity" values=".1;1;.1" dur="3.6s" begin="1.2s" repeatCount="indefinite"/></circle>
+</g>
+<g font-family="Arial,Helvetica,sans-serif">
+<g>
+<rect x="28" y="58" rx="12" width="262" height="119" fill="#0f2537" stroke="#35586b" stroke-width="1.5"/>
+<rect x="28" y="58" rx="12" width="262" height="119" fill="none" stroke="#62d9e6" opacity=".17"><animate attributeName="opacity" values=".13;.42;.13" dur="5s" repeatCount="indefinite"/></rect>
+<text x="47" y="84" font-size="12" fill="#68dce7" font-family="monospace">01   //   FOUNDATIONS</text>
+<text x="47" y="118" font-size="23" font-weight="700" fill="#eaf1fa">NETWORKING</text>
+<text x="47" y="146" font-size="13" fill="#a9b8cb">Protocols · VLANs · TCP/IP</text>
+</g>
+<g>
+<rect x="352" y="58" rx="12" width="256" height="119" fill="#0f2537" stroke="#35586b" stroke-width="1.5"/>
+<rect x="352" y="58" rx="12" width="256" height="119" fill="none" stroke="#62d9e6" opacity=".17"><animate attributeName="opacity" values=".13;.5;.13" dur="5s" begin="1s" repeatCount="indefinite"/></rect>
+<text x="371" y="84" font-size="12" fill="#68dce7" font-family="monospace">02   //   PRACTICE</text>
+<text x="371" y="118" font-size="23" font-weight="700" fill="#eaf1fa">SECURITY LABS</text>
+<text x="371" y="146" font-size="13" fill="#a9b8cb">Wireshark · Analysis · Labs</text>
+</g>
+<g>
+<rect x="670" y="58" rx="12" width="262" height="119" fill="#0f2537" stroke="#35586b" stroke-width="1.5"/>
+<rect x="670" y="58" rx="12" width="262" height="119" fill="none" stroke="#62d9e6" opacity=".17"><animate attributeName="opacity" values=".13;.5;.13" dur="5s" begin="2s" repeatCount="indefinite"/></rect>
+<text x="689" y="84" font-size="12" fill="#68dce7" font-family="monospace">03   //   DIRECTION</text>
+<text x="689" y="118" font-size="23" font-weight="700" fill="#eaf1fa">ENGINEERING</text>
+<text x="689" y="146" font-size="13" fill="#a9b8cb">My long-term career goal</text>
+</g>
+</g>
+</svg>
