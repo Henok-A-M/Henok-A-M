@@ -4,7 +4,7 @@
 
 # Henok Molla
 
-### Network Security Student · Aspiring Cybersecurity Engineer
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=23&pause=1400&color=62D9E6&center=true&vCenter=true&width=750&lines=Network+Security+Student;Aspiring+Cybersecurity+Engineer;Building+skills+through+hands-on+labs" alt="Animated introduction: Network Security Student, Aspiring Cybersecurity Engineer" />
 
 **Learning, building, and securing networks — one project at a time.**
 
@@ -24,6 +24,12 @@ My goal is to grow into a **cybersecurity or network security engineering** role
 
 ### 🛠️ What I'm Learning & Practicing
 
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=linux,github,vscode&theme=dark" alt="Linux, GitHub and VS Code learning icons" />
+
+</div>
+
 ![Networking](https://img.shields.io/badge/Networking-123047?style=flat-square&logo=cisco&logoColor=62D9E6)
 ![Wireshark](https://img.shields.io/badge/Wireshark-123047?style=flat-square&logo=wireshark&logoColor=62D9E6)
 ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-123047?style=flat-square)
@@ -31,6 +37,7 @@ My goal is to grow into a **cybersecurity or network security engineering** role
 ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-123047?style=flat-square&logo=cisco&logoColor=62D9E6)
 ![Network Segmentation](https://img.shields.io/badge/Network_Segmentation-123047?style=flat-square)
 ![Security Fundamentals](https://img.shields.io/badge/Security_Fundamentals-123047?style=flat-square)
+![Traffic Analysis](https://img.shields.io/badge/Traffic_Analysis-123047?style=flat-square)
 
 ### 📂 Featured Hands-On Projects
 
@@ -40,7 +47,18 @@ My goal is to grow into a **cybersecurity or network security engineering** role
 | 🔎 **[Wireshark Traffic Analysis](https://henokmolla.com/#projects)** | Investigating packets, TCP handshakes, and network traffic behavior |
 | 🖥️ **[Home Lab](https://henokmolla.com/#projects)** | Developing a personal lab to practice networking and security concepts |
 
-**Next up:** Windows security logs, Microsoft Entra ID, vulnerability scanning, SIEM monitoring, Linux hardening, and incident response.
+**Next up:** Windows security logs, Microsoft Entra ID, vulnerability scanning, SIEM monitoring, Linux hardening, phishing investigation, and incident response.
+
+### 📈 GitHub Snapshot
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Henok-A-M&show_icons=true&theme=transparent&title_color=62D9E6&text_color=EAF1FA&icon_color=62D9E6&border_color=2B4058" alt="GitHub activity statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henok-A-M&layout=compact&theme=transparent&title_color=62D9E6&text_color=EAF1FA&border_color=2B4058" alt="GitHub language statistics" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Henok-A-M&bg_color=050c19&color=eaf1fa&line=62d9e6&point=62d9e6&area=true&hide_border=true" alt="GitHub contributions activity graph" />
+
+</div>
 
 ### 🎯 Current Focus
 
