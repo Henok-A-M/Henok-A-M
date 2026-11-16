@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="94" viewBox="0 0 960 94" role="img" aria-label="Stay curious. Keep building. Stay secure.">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#071325"/><stop offset=".55" stop-color="#0d2638"/><stop offset="1" stop-color="#071325"/></linearGradient><linearGradient id="beam" x1="0" x2="1"><stop stop-color="#62d9e6" stop-opacity="0"/><stop offset=".5" stop-color="#62d9e6"/><stop offset="1" stop-color="#62d9e6" stop-opacity="0"/></linearGradient></defs>
+<rect width="960" height="94" fill="url(#bg)" rx="12" stroke="#285267"/>
+<path d="M26 18H934M26 76H934" stroke="#62d9e6" stroke-opacity=".14"/>
+<rect x="0" y="17" width="155" height="2" fill="url(#beam)"><animate attributeName="x" values="-155;960" dur="5s" repeatCount="indefinite"/></rect>
+<rect x="0" y="75" width="155" height="2" fill="url(#beam)"><animate attributeName="x" values="960;-155" dur="7s" repeatCount="indefinite"/></rect>
+<circle cx="55" cy="47" r="6" fill="#72e8ce"><animate attributeName="opacity" values=".2;1;.2" dur="2.5s" repeatCount="indefinite"/></circle>
+<text x="479" y="54" text-anchor="middle" fill="#eaf1fa" font-size="21" font-weight="700" letter-spacing="3" font-family="Arial,Helvetica,sans-serif">STAY CURIOUS  ·  KEEP BUILDING  ·  STAY SECURE</text>
+<circle cx="908" cy="47" r="5" fill="#62d9e6"><animate attributeName="opacity" values="1;.25;1" dur="2.5s" repeatCount="indefinite"/></circle>
+</svg>
