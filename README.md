@@ -1,8 +1,8 @@
+
 <!--
   Henok Molla's GitHub profile README
-  GitHub does not run JavaScript or page-level CSS in README files.
-  Motion is provided by self-contained SVG assets and an animated typing image.
-  Custom graphics live in assets/ and can be edited independently.
+  Custom graphics and animations live in the assets/ directory.
+  The portrait uses a clean transparent image without an SVG mask.
 -->
 
 <div align="center">
@@ -13,12 +13,13 @@
 
 </div>
 
-<!-- PROFILE INTRO: Transparent, softly feathered original portrait on the right.  No box/border; the SVG fades shoulders and adds a subtle animated cyan aura. -->
-<img align="right" src="https://raw.githubusercontent.com/Henok-A-M/Henok-A-M/main/assets/henok-portrait-fade.svg" alt="Henok Molla — borderless professional portrait fading naturally into the dark background" width="238" />
+<!-- PROFILE INTRO: Borderless portrait on the right, with no glitchy SVG effect. -->
+
+<img align="right" src="https://raw.githubusercontent.com/Henok-A-M/Henok-A-M/main/assets/henok-portrait-cutout.webp" alt="Henok Molla — professional portrait" width="215" />
 
 ### Hey, I’m Henok 👋
 
-**Network Security Student**  |  **Year Up United**  |  **City University of Seattle**
+**Network Security Student** | **Year Up United** | **City University of Seattle**
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=1000&color=62D9E6&vCenter=true&repeat=true&width=515&height=57&lines=Network+Security+Student;Aspiring+Cybersecurity+Engineer;Learning+through+Hands-on+Labs;One+Challenge+at+a+Time" alt="Animated introduction: network security student and aspiring cybersecurity engineer" width="515" />
 
@@ -52,7 +53,9 @@ Learn. Build. Document. Improve.
 ```
 
 <div align="center">
+
 <img src="https://raw.githubusercontent.com/Henok-A-M/Henok-A-M/main/assets/learning-path.svg" width="100%" alt="Animated learning path from networking foundations through security labs toward a future engineering career" />
+
 </div>
 
 ## 🛠️ Tools & Skills I'm Building
@@ -110,6 +113,7 @@ These projects are **planned**, not completed:
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Henok-A-M&show_icons=true&theme=transparent&title_color=62D9E6&text_color=EAF1FA&icon_color=62D9E6&border_color=2B4058" alt="GitHub statistics" />
+
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henok-A-M&layout=compact&theme=transparent&title_color=62D9E6&text_color=EAF1FA&border_color=2B4058" alt="Most-used repository languages" />
 
 <br />
