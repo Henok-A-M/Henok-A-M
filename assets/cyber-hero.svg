@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="280" viewBox="0 0 960 280" role="img" aria-labelledby="title description">
+<title id="title">Henok Molla | Network Security — animated profile banner</title>
+<desc id="description">A neon cyan network with animated data packets and a pulsing security shield beside Henok Molla's name.</desc>
+<defs>
+  <linearGradient id="back" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#071325"/><stop offset=".56" stop-color="#081d31"/><stop offset="1" stop-color="#050c19"/></linearGradient>
+  <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#62d9e6" stop-opacity=".05"/><stop offset=".62" stop-color="#62d9e6" stop-opacity=".85"/><stop offset="1" stop-color="#62d9e6" stop-opacity=".08"/></linearGradient>
+  <linearGradient id="text" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#eaf8ff"/><stop offset="1" stop-color="#72eaf0"/></linearGradient>
+  <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#62d9e6" stroke-opacity=".08" stroke-width="1"/></pattern>
+  <filter id="glow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="5" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <clipPath id="frame"><rect width="960" height="280" rx="20"/></clipPath>
+</defs>
+<g clip-path="url(#frame)">
+<rect width="960" height="280" fill="url(#back)"/>
+<rect width="960" height="280" fill="url(#grid)"/>
+<rect x="1" y="1" width="958" height="278" rx="19" fill="none" stroke="#62d9e6" stroke-opacity=".28"/>
+<rect x="-260" y="0" width="200" height="280" fill="#62d9e6" opacity=".035" transform="skewX(-22)">
+  <animate attributeName="x" values="-360;1250" dur="9s" repeatCount="indefinite"/>
+</rect>
+<g font-family="Arial,Helvetica,sans-serif">
+<rect x="38" y="30" rx="5" width="172" height="25" fill="#102c42" stroke="#2d6174"/>
+<circle cx="54" cy="42.5" r="4" fill="#69e5c3"><animate attributeName="opacity" values=".35;1;.35" dur="2.2s" repeatCount="indefinite"/></circle>
+<text x="68" y="47" fill="#92c5d5" font-size="12" letter-spacing="2">NETWORK / SECURITY</text>
+<text x="39" y="124" font-weight="800" fill="url(#text)" font-size="61" letter-spacing="3">HENOK MOLLA</text>
+<rect x="41" y="144" width="310" height="2" rx="1" fill="url(#line)"/>
+<rect x="41" y="144" width="38" height="2" fill="#a5f3fc"><animate attributeName="x" values="41;312;41" dur="6s" repeatCount="indefinite"/></rect>
+<text x="40" y="177" fill="#b9d0e4" font-size="18" font-weight="500">Aspiring Cybersecurity Engineer</text>
+<text x="40" y="210" fill="#70b5c5" font-size="13" letter-spacing="2.8">LEARN   /   BUILD   /   SECURE</text>
+<text x="40" y="252" fill="#4a8199" font-family="monospace" font-size="11">henokmolla.com  •  GitHub / Henok-A-M</text>
+</g>
+<g transform="translate(777 139)">
+  <circle r="106" stroke="#62d9e6" stroke-opacity=".13" stroke-width="1" fill="none" stroke-dasharray="3 8"/>
+  <circle r="87" stroke="#62d9e6" stroke-opacity=".3" stroke-width="1.5" fill="none" stroke-dasharray="34 14 6 14">
+    <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="42s" repeatCount="indefinite"/>
+  </circle>
+  <circle r="69" stroke="#62d9e6" stroke-opacity=".13" stroke-width="1" fill="#10263b" fill-opacity=".7"/>
+  <circle r="59" stroke="#62d9e6" stroke-opacity=".4" fill="none">
+    <animate attributeName="r" values="53;68;53" dur="4s" repeatCount="indefinite"/>
+    <animate attributeName="stroke-opacity" values=".38;.08;.38" dur="4s" repeatCount="indefinite"/>
+  </circle>
+  <path d="M0-44 39-28 34 21Q25 44 0 54-25 44-34 21L-39-28Z" fill="#153b52" stroke="#62d9e6" stroke-width="2.5" filter="url(#glow)"/>
+  <path d="M-18 3-4 17 20-13" fill="none" stroke="#a4f9ee" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="-86" cy="-18" r="3" fill="#62d9e6"/>
+  <circle cx="75" cy="-51" r="3" fill="#62d9e6"/>
+  <circle cx="77" cy="69" r="3" fill="#62d9e6"/>
+  <circle cx="-51" cy="87" r="3" fill="#62d9e6"/>
+  <path d="M-86-18-55-9M75-51 39-29M77 69 32 30M-51 87-20 50" stroke="#62d9e6" stroke-opacity=".48" fill="none"/>
+  <circle r="5" fill="#7cf5ff" filter="url(#glow)">
+    <animateMotion path="M-86-18-55-9M75-51 39-29M77 69 32 30M-51 87-20 50" dur="7s" repeatCount="indefinite"/>
+  </circle>
+</g>
+<g fill="#62d9e6" filter="url(#glow)">
+<circle r="3"><animateMotion path="M540 44H675V78H720" dur="5s" repeatCount="indefinite"/></circle>
+<circle r="2"><animateMotion path="M552 238H680V204H732" dur="4s" repeatCount="indefinite"/></circle>
+</g>
+<g fill="none" stroke="#62d9e6" stroke-opacity=".22" stroke-width="1"><path d="M535 44H675V78H720M552 238H680V204H732"/></g>
+</g>
+</svg>
