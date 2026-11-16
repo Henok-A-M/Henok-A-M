@@ -85,7 +85,12 @@ Learn. Build. Improve.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,github,vscode&theme=dark" alt="Linux, GitHub, and VS Code icons" />
+<!-- Each icon has its own browser hover tooltip (title) and accessible name (alt). -->
+<img src="https://skillicons.dev/icons?i=linux&theme=dark" alt="Linux" title="Linux" width="50" height="50" />
+&nbsp;
+<img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" title="GitHub" width="50" height="50" />
+&nbsp;
+<img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="Visual Studio Code" title="Visual Studio Code (VS Code)" width="50" height="50" />
 
 <br /><br />
 
