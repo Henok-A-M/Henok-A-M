@@ -1,16 +1,60 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Henok-A-M/Henok-A-M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://raw.githubusercontent.com/Henok-A-M/henokmolla.com/main/assets/images/file_000000005e8c722faf3ba9ca15875a49.png" alt="Henok Molla — professional portrait" width="170" />
 
-Here are some ideas to get you started:
+# Henok Molla
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Network Security Student · Aspiring Cybersecurity Engineer
+
+**Learning, building, and securing networks — one project at a time.**
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-62D9E6?style=for-the-badge&logo=googlechrome&logoColor=071321)](https://henokmolla.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henok-molla)
+[![Projects](https://img.shields.io/badge/Explore_Projects-132B42?style=for-the-badge&logo=github&logoColor=62D9E6)](https://henokmolla.com/#projects)
+
+</div>
+
+---
+
+### 👋 About Me
+
+I'm a **Year Up United Network Security** participant and a student at **City University of Seattle**, building hands-on skills in networking and cybersecurity.
+
+My goal is to grow into a **cybersecurity or network security engineering** role. I enjoy understanding how networks work, investigating traffic, and learning how to protect systems through practical labs.
+
+### 🛠️ What I'm Learning & Practicing
+
+![Networking](https://img.shields.io/badge/Networking-123047?style=flat-square&logo=cisco&logoColor=62D9E6)
+![Wireshark](https://img.shields.io/badge/Wireshark-123047?style=flat-square&logo=wireshark&logoColor=62D9E6)
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-123047?style=flat-square)
+![VLANs](https://img.shields.io/badge/VLANs-123047?style=flat-square)
+![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-123047?style=flat-square&logo=cisco&logoColor=62D9E6)
+![Network Segmentation](https://img.shields.io/badge/Network_Segmentation-123047?style=flat-square)
+![Security Fundamentals](https://img.shields.io/badge/Security_Fundamentals-123047?style=flat-square)
+
+### 📂 Featured Hands-On Projects
+
+| Project | Focus |
+| :--- | :--- |
+| 🧩 **[VLAN Network Segmentation](https://henokmolla.com/#projects)** | Configuring VLANs and testing network isolation with Cisco Packet Tracer |
+| 🔎 **[Wireshark Traffic Analysis](https://henokmolla.com/#projects)** | Investigating packets, TCP handshakes, and network traffic behavior |
+| 🖥️ **[Home Lab](https://henokmolla.com/#projects)** | Developing a personal lab to practice networking and security concepts |
+
+**Next up:** Windows security logs, Microsoft Entra ID, vulnerability scanning, SIEM monitoring, Linux hardening, and incident response.
+
+### 🎯 Current Focus
+
+- Strengthening my understanding of **network protocols, traffic analysis, and segmentation**
+- Building a practical foundation in **security operations and troubleshooting**
+- Documenting what I learn through labs and projects
+- Preparing for opportunities in **network and cybersecurity engineering**
+
+---
+
+<div align="center">
+
+**Thanks for visiting!**
+
+[🌐 Portfolio](https://henokmolla.com) · [💼 LinkedIn](https://www.linkedin.com/in/henok-molla) · [💻 GitHub](https://github.com/Henok-A-M)
+
+</div>
