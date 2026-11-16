@@ -13,12 +13,12 @@
 
 </div>
 
-<!-- PROFILE INTRO: GitHub supports image align=right, unlike custom CSS layout or masks. -->
-<img align="right" src="https://raw.githubusercontent.com/Henok-A-M/henokmolla.com/main/assets/images/file_000000005e8c722faf3ba9ca15875a49.png" alt="Henok Molla — original professional portrait" width="205" />
+<!-- PROFILE INTRO: Transparent, softly feathered original portrait on the right.  No box/border; the SVG fades shoulders and adds a subtle animated cyan aura. -->
+<img align="right" src="https://raw.githubusercontent.com/Henok-A-M/Henok-A-M/main/assets/henok-portrait-fade.svg" alt="Henok Molla — borderless professional portrait fading naturally into the dark background" width="238" />
 
-### Hello, I'm Henok 👋
+### Hey, I’m Henok 👋
 
-**Year Up United Network Security** · **City University of Seattle**
+**Network Security Student**  |  **Year Up United**  |  **City University of Seattle**
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=1000&color=62D9E6&vCenter=true&repeat=true&width=515&height=57&lines=Network+Security+Student;Aspiring+Cybersecurity+Engineer;Learning+through+Hands-on+Labs;One+Challenge+at+a+Time" alt="Animated introduction: network security student and aspiring cybersecurity engineer" width="515" />
 
