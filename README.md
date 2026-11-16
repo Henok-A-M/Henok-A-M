@@ -11,22 +11,26 @@
 
 <br />
 
-<img src="https://raw.githubusercontent.com/Henok-A-M/henokmolla.com/main/assets/images/file_000000005e8c722faf3ba9ca15875a49.png" alt="Professional portrait of Henok Molla" width="165" />
+</div>
 
-<br />
+<!-- PROFILE INTRO: GitHub supports image align=right, unlike custom CSS layout or masks. -->
+<img align="right" src="https://raw.githubusercontent.com/Henok-A-M/henokmolla.com/main/assets/images/file_000000005e8c722faf3ba9ca15875a49.png" alt="Henok Molla — original professional portrait" width="205" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=1100&color=62D9E6&center=true&vCenter=true&repeat=true&width=780&height=54&lines=Network+Security+Student;Aspiring+Cybersecurity+Engineer;Learning+in+Public+%7C+Building+Hands-on+Labs;One+Challenge+at+a+Time" alt="Typing animation: Network Security Student, Aspiring Cybersecurity Engineer, learning in public" width="90%" />
+### Hello, I'm Henok 👋
+
+**Year Up United Network Security** · **City University of Seattle**
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=1000&color=62D9E6&vCenter=true&repeat=true&width=515&height=57&lines=Network+Security+Student;Aspiring+Cybersecurity+Engineer;Learning+through+Hands-on+Labs;One+Challenge+at+a+Time" alt="Animated introduction: network security student and aspiring cybersecurity engineer" width="515" />
 
 **Learning, building, and securing networks — one project at a time.**
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-62D9E6?style=for-the-badge&logo=googlechrome&logoColor=071321)](https://henokmolla.com)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henok-molla)
-[![Explore Projects](https://img.shields.io/badge/EXPLORE_PROJECTS-152D42?style=for-the-badge&logo=github&logoColor=62D9E6)](https://henokmolla.com/#projects)
+[![Projects](https://img.shields.io/badge/PROJECTS-152D42?style=for-the-badge&logo=github&logoColor=62D9E6)](https://henokmolla.com/#projects)
 
 ![Profile views](https://komarev.com/ghpvc/?username=Henok-A-M&style=flat-square&label=Profile+views&color=62d9e6)
-![Focus](https://img.shields.io/badge/FOCUS-Network%20Security-10283d?style=flat-square&labelColor=10283d&color=2aa8b8)
 
-</div>
+<br clear="all" />
 
 ---
 
