@@ -13,9 +13,9 @@
 
 </div>
 
-<!-- PROFILE INTRO: Borderless portrait on the right, with no glitchy SVG effect. -->
+<!-- PROFILE INTRO: High-resolution transparent portrait, borderless and right-aligned. -->
 
-<img align="right" src="https://raw.githubusercontent.com/Henok-A-M/Henok-A-M/main/assets/henok-portrait-cutout.webp" alt="Henok Molla — professional portrait" width="215" />
+<img align="right" src="https://raw.githubusercontent.com/Henok-A-M/Henok-A-M/main/assets/henok_clear_highres_85.webp" alt="Henok Molla — professional portrait" width="215" />
 
 ### Hey, I’m Henok 👋
 
