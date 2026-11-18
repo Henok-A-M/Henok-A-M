@@ -26,9 +26,9 @@
 
 **Network Security Student**
 
-Year Up United
+[Year Up United](https://www.yearup.org/)
 
-City University of Seattle
+[City University of Seattle](https://cityu.edu/)
 
 *Aspiring Cybersecurity Engineer*
 
@@ -56,7 +56,7 @@ City University of Seattle
 
 ## 👋 About Me
 
-I'm a **Year Up United Network Security** participant and a student at **City University of Seattle**, building hands-on skills in networking and cybersecurity.
+I'm a **[Year Up United](https://www.yearup.org/) Network Security** participant and a student at **[City University of Seattle](https://cityu.edu/)**, building hands-on skills in networking and cybersecurity.
 
 My goal is to become a **cybersecurity or network security engineer**. I enjoy understanding how networks communicate, investigating traffic, and learning how to protect systems through practical labs and hands-on projects.
 
