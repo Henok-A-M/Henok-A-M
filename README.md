@@ -20,7 +20,7 @@
 
 <!-- PROFILE INTRO: Right-aligned high-resolution portrait with short, naturally wrapping text.
      On small screens, the animated headline and links sit BELOW the photo instead of being squeezed beside it. -->
-<img align="right" src="https://raw.githubusercontent.com/Henok-A-M/Henok-A-M/main/assets/henok_clear_highres_85.webp" alt="Henok Molla — professional portrait" width="155" />
+<img align="right" src="https://raw.githubusercontent.com/Henok-A-M/Henok-A-M/main/assets/henok_clear_highres_85.webp" alt="Henok Molla — professional portrait" width="200" />
 
 ### Hey, I'm Henok 👋
 
