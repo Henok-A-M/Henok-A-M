@@ -86,24 +86,26 @@ Learn. Build. Improve.
 
 <div align="center">
 
-<!-- Each icon has its own browser hover tooltip (title) and accessible name (alt). -->
-<img src="https://skillicons.dev/icons?i=linux&theme=dark" alt="Linux" title="Linux" width="50" height="50" />
-&nbsp;
-<img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" title="GitHub" width="50" height="50" />
-&nbsp;
-<img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="Visual Studio Code" title="Visual Studio Code (VS Code)" width="50" height="50" />
-
-<br /><br />
-
-![Networking](https://img.shields.io/badge/NETWORKING-123047?style=for-the-badge&logo=cisco&logoColor=62D9E6)
-![Wireshark](https://img.shields.io/badge/WIRESHARK-123047?style=for-the-badge&logo=wireshark&logoColor=62D9E6)
-![TCP/IP](https://img.shields.io/badge/TCP%2FIP-123047?style=for-the-badge)
-![VLANs](https://img.shields.io/badge/VLANs-123047?style=for-the-badge)
-
-![Packet Tracer](https://img.shields.io/badge/CISCO_PACKET_TRACER-123047?style=flat-square&logo=cisco&logoColor=62D9E6)
-![Network Segmentation](https://img.shields.io/badge/NETWORK_SEGMENTATION-123047?style=flat-square)
-![Security Fundamentals](https://img.shields.io/badge/SECURITY_FUNDAMENTALS-123047?style=flat-square)
-![Traffic Analysis](https://img.shields.io/badge/TRAFFIC_ANALYSIS-123047?style=flat-square)
+<!-- Consistent icons with small names beneath each tool or skill. -->
+<table align="center">
+  <tr>
+    <td align="center" width="132"><img src="https://skillicons.dev/icons?i=linux&amp;theme=dark" alt="Linux" title="Linux" width="46" height="46" /><br/><sub><b>Linux</b></sub></td>
+    <td align="center" width="132"><img src="https://skillicons.dev/icons?i=github&amp;theme=dark" alt="GitHub" title="GitHub" width="46" height="46" /><br/><sub><b>GitHub</b></sub></td>
+    <td align="center" width="132"><img src="https://skillicons.dev/icons?i=vscode&amp;theme=dark" alt="VS Code" title="VS Code" width="46" height="46" /><br/><sub><b>VS Code</b></sub></td>
+    <td align="center" width="132"><img src="https://api.iconify.design/lucide/network.svg?color=%2362D9E6" alt="Networking" title="Networking" width="46" height="46" /><br/><sub><b>Networking</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="132"><img src="https://cdn.simpleicons.org/wireshark/62D9E6" alt="Wireshark" title="Wireshark" width="46" height="46" /><br/><sub><b>Wireshark</b></sub></td>
+    <td align="center" width="132"><img src="https://api.iconify.design/lucide/route.svg?color=%2362D9E6" alt="TCP/IP" title="TCP/IP" width="46" height="46" /><br/><sub><b>TCP/IP</b></sub></td>
+    <td align="center" width="132"><img src="https://api.iconify.design/lucide/waypoints.svg?color=%2362D9E6" alt="VLANs" title="VLANs" width="46" height="46" /><br/><sub><b>VLANs</b></sub></td>
+    <td align="center" width="132"><img src="https://cdn.simpleicons.org/cisco/62D9E6" alt="Cisco Packet Tracer" title="Cisco Packet Tracer" width="46" height="46" /><br/><sub><b>Cisco Packet<br/>Tracer</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="132"><img src="https://api.iconify.design/lucide/workflow.svg?color=%2362D9E6" alt="Network Segmentation" title="Network Segmentation" width="46" height="46" /><br/><sub><b>Network<br/>Segmentation</b></sub></td>
+    <td align="center" width="132"><img src="https://api.iconify.design/lucide/shield-check.svg?color=%2362D9E6" alt="Security Fundamentals" title="Security Fundamentals" width="46" height="46" /><br/><sub><b>Security<br/>Fundamentals</b></sub></td>
+    <td align="center" width="132"><img src="https://api.iconify.design/lucide/activity.svg?color=%2362D9E6" alt="Traffic Analysis" title="Traffic Analysis" width="46" height="46" /><br/><sub><b>Traffic Analysis</b></sub></td>
+  </tr>
+</table>
 
 </div>
 
@@ -175,6 +177,6 @@ These projects are **planned**, not completed:
 
 ### 🤝 Let's Connect
 
-[🌐 Portfolio](https://henokmolla.com) · [💼 LinkedIn](https://www.linkedin.com/in/henok-molla) · [💻 Projects](https://github.com/Henok-A-M?tab=repositories)
+[🌐 Portfolio](https://henokmolla.com) · [💼 LinkedIn](https://www.linkedin.com/in/henok-molla) · [💻 Projects](https://github.com/Henok-A-M?tab=repositories) · [✉️ Email](mailto:henok.molla73@gmail.com)
 
 </div>
