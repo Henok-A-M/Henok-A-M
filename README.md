@@ -26,9 +26,9 @@
 
 **Network Security Student**
 
-[Year Up United](https://www.yearup.org/)
+Year Up United
 
-[City University of Seattle](https://cityu.edu/)
+City University of Seattle
 
 *Aspiring Network or Cybersecurity Engineer*
 
@@ -56,7 +56,7 @@
 
 ## 👋 About Me
 
-I'm part of the **Information Technology pathway (Network Security track)** at **[Year Up United](https://www.yearup.org/)** and a student at **[City University of Seattle](https://cityu.edu/)**. I'm building practical skills in networking, cybersecurity, and IT support.
+I'm part of the **Information Technology pathway (Network Security track)** at **Year Up United** and a student at **City University of Seattle**. I'm building practical skills in networking, cybersecurity, and IT support.
 
 My interest in technology started when I helped my family troubleshoot phones and computers. I enjoy researching problems, testing solutions, and explaining what I learned in simple terms.
 
