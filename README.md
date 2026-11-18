@@ -45,7 +45,8 @@ City University of Seattle
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-62D9E6?style=for-the-badge&logo=googlechrome&logoColor=071321)](https://henokmolla.com)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henok-molla)
-[![Projects](https://img.shields.io/badge/PROJECTS-152D42?style=for-the-badge&logo=github&logoColor=62D9E6)](https://henokmolla.com/#projects)
+[![Projects](https://img.shields.io/badge/PROJECTS-152D42?style=for-the-badge&logo=github&logoColor=62D9E6)](https://github.com/Henok-A-M?tab=repositories)
+[![Email](https://img.shields.io/badge/EMAIL-152D42?style=for-the-badge&logo=gmail&logoColor=62D9E6)](mailto:henok.molla73@gmail.com)
 
 ![Profile views](https://komarev.com/ghpvc/?username=Henok-A-M&style=flat-square&label=Profile+views&color=62d9e6)
 
@@ -174,6 +175,6 @@ These projects are **planned**, not completed:
 
 ### 🤝 Let's Connect
 
-[🌐 Portfolio](https://henokmolla.com) · [💼 LinkedIn](https://www.linkedin.com/in/henok-molla) · [💻 Projects](https://henokmolla.com/#projects)
+[🌐 Portfolio](https://henokmolla.com) · [💼 LinkedIn](https://www.linkedin.com/in/henok-molla) · [💻 Projects](https://github.com/Henok-A-M?tab=repositories)
 
 </div>
