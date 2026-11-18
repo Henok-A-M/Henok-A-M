@@ -30,7 +30,7 @@
 
 [City University of Seattle](https://cityu.edu/)
 
-*Aspiring Cybersecurity Engineer*
+*Aspiring Network or Cybersecurity Engineer*
 
 <br clear="all" />
 
@@ -56,9 +56,11 @@
 
 ## 👋 About Me
 
-I'm a **[Year Up United](https://www.yearup.org/) Network Security** participant and a student at **[City University of Seattle](https://cityu.edu/)**, building hands-on skills in networking and cybersecurity.
+I'm part of the **Information Technology pathway (Network Security track)** at **[Year Up United](https://www.yearup.org/)** and a student at **[City University of Seattle](https://cityu.edu/)**. I'm building practical skills in networking, cybersecurity, and IT support.
 
-My goal is to become a **cybersecurity or network security engineer**. I enjoy understanding how networks communicate, investigating traffic, and learning how to protect systems through practical labs and hands-on projects.
+My interest in technology started when I helped my family troubleshoot phones and computers. I enjoy researching problems, testing solutions, and explaining what I learned in simple terms.
+
+My long-term goal is to become a **network engineer or cybersecurity engineer**. I'm developing my networking, infrastructure, troubleshooting, and security skills through practical labs, coursework, and projects.
 
 ```text
 henok@security-lab:~$ whoami
@@ -109,19 +111,26 @@ Learn. Build. Improve.
 
 </div>
 
+**Additional skills from my corporate profile**
+
+- **IT Support:** Hardware troubleshooting, PC setup, operating systems, software installation, and user support
+- **Programming & Web:** HTML, Python, MySQL, Java, and C++
+- **Workplace Tools:** Microsoft Office, Teams, and Slack
+- **Professional Skills:** Communication, leadership, teamwork, problem-solving, active listening, adaptability, reliability, and organization
+
 ## 📂 Featured Hands-On Work
 
 **🧩 [VLAN Network Segmentation](https://henokmolla.com/#projects)**
 
-Configured VLANs and tested network isolation in Cisco Packet Tracer.
+Created VLANs 10, 20, and 30 in Cisco Packet Tracer and practiced switch configuration. My saved lab evidence does not yet confirm completed access-port assignments or VLAN isolation testing.
 
-**🔎 [Wireshark Traffic Analysis](https://henokmolla.com/#projects)**
+**🔎 [Wireshark Security Analysis](https://henokmolla.com/#projects)**
 
-Examined TCP handshakes, packet flags, and network traffic behavior.
+Used Wireshark to examine TCP connections, IP communication, and packet behavior during controlled command-and-control (C2) and simulated DDoS security labs. The portfolio screenshots currently show the C2 lab.
 
 **🖥️ [My Home Lab](https://henokmolla.com/#projects)**
 
-In development: documenting my personal networking and security lab.
+Built a personal home lab to practice networking, server management, configuration, and troubleshooting. I'm continuing to document the setup and results.
 
 <details>
 <summary><strong>🔐 Explore my future cybersecurity project ideas</strong></summary>
